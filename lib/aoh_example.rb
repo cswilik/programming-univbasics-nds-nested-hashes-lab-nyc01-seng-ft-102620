@@ -28,7 +28,7 @@ def literal_aoh
     KATE_G,
     BRUCE_G
     ]
-infinite_jest_characters.sort
+infinite_jest_characters
 end
 
 def aoh_lookup(aoh, row, key)
